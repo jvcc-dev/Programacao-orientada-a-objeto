@@ -1,0 +1,18 @@
+1- pegar uma LampadaNova
+2- ir até LampadaQueimada
+3- alcanço LampadaQueimada?. se sim(passo5) se não(passo4)
+4- pegar Escada
+5- abrir Escada
+6- subir na Escada
+7- tirar LampadaQueimada
+8- guardar LampadaQueimada
+9- pegar LampadaNova
+10- colocar LampadaNova
+11- descer da Escada
+12- ligar a LampadaNova
+13- está ligada?. se sim(passo14) se não(passo6)
+14- pegar Escada
+15- guardar Escada
+16- jogar LampadaQueimada no lixo
+17- fim
+ 
