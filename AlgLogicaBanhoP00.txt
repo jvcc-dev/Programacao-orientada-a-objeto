@@ -1,0 +1,54 @@
+1- pegar a toalha 
+2- ir ao banheiro
+3- está com a porta aberta.? se sim?(paso5) se não(passo4)
+4- abrir a porta 
+5- entrar no banheiro
+6- fechar a porta
+7- pendurar a toalha
+8- retirar a roupa
+9- pendurar a roupa 
+10- ir ate o box
+11- está aberto.? se sim?(paso12) se não(passo13)
+12- abrir o box
+13- entar no box
+14- fechar a porta
+15- choveiro esta ligado?. se sim(passo16) se não(passo15)
+16- ligar o chuveiro
+17- entar no choveiro
+18- ficar em baixo até se molhar 
+19- está molhado?. se sim?(passo20) se não(passo21)
+20- continuar no chuveiro
+21- desligar o choveiro
+22- pegar o shampoo
+23- está aberto?. se sim(passo24) se não(passo25)
+24- abrir o shampoo
+25- passar no cabelo
+26- fechar o shampoo
+27- guardar o shampoo 
+28- esfregar a cabeça
+29- ligar o chuveiro
+30- entar no choveiro
+31- tirar o shampoo
+33- desligar o chuveiro
+33- pegar o sabonete
+34- esfregar o sabonete no corpo
+35- guardar o sabonete
+36- ligar o chuveiro
+37- tirar o sabonete 
+38- desligar o chuveiro
+39- está limpo?. se sim(passo40) se não(passo16)
+40- abrir o box
+41- sair do box
+42- pegar a toalha
+43- esfregar no corpo
+44- está seco?. se sim(passo45) se não(passo43)
+45- pendurar a toalha
+46- pegar a roupa limpa
+47- vertir a roupa limpa
+48- ir até a porta
+49- abrir a porta
+50- sair
+51- fim 
+ 
+
+ 
