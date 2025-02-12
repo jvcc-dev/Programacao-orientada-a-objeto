@@ -1,0 +1,22 @@
+Descreva com detalhes a sequência lógica para trocar um pneu de um carro
+
+1- tirar o sinto
+2- abrir a porta
+3- fechar a porta
+4- ir ao PortaMalas
+5- está aberto?. se sim(passo7) se não(passo6)
+6- abrir PortaMalas
+7- pegar o PeneuNovo
+9- pegar ChaveDeRoda
+10- pegar Macaco
+11- colocar Macaco no chão
+12- fechar PortaMalas
+13- desparafuzar RodaVelha com ChaveDeroda 
+14- colocar Macaco em baixo do carro
+15- o Carro está elevado? se sim(passo16) se não(passo14)
+16- retirar RodaVelha
+17- colocar RodaNova no Carro
+18- parafuzar Rodanova com ChaveDeRoda
+19- guardar RodaVelha 
+20- guardar Equipamentos = (Macaco e ChaveDeRoda)
+21- finalizar
