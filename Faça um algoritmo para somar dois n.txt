@@ -1,0 +1,19 @@
+Faça um algoritmo para somar dois números e multiplicar o resultado pelo primeiro número.
+
+1- Solicitar/Informar o PrimeiroNumero
+2- receber/guardar/armazenar o PrimeiroNumero
+3- Solicitar/Informar o SegundoNumero
+4- receber/guardar/armazenar o SegundoNumero
+5- pegar/buscar PrimeiroNumero e SegundoNumero
+5- Soma = (PrimeiroNumero+SegundoNumero)
+6- apresentar Soma
+7- pegar/buscar PrimeiroNumero e Soma
+7- Resultado = (Soma*PrimeiroNumero)
+8- apresentar Resultado?. se sim(passo9) se não(passo10)
+9- mostar Resultado
+10- finalizar codigo
+
+ou 
+
+8- mostar Resultado
+9- finalizar codigo
