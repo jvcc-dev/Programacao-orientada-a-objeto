@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>var Maior, Menor, Cont;
+        let Vetor = [];
+        Cont = 0;
+        
+        for(Cont = 0 ; Cont<3 ; Cont++){
+            Vetor[Cont] = parseInt(prompt(`Informe o ${Cont+1}° Numero `));
+        }
+        Maior=Vetor[0];
+        Menor=Vetor[0];
+        for(Cont=0;Cont<3;Cont++){
+            if(Vetor[Cont]>=Vetor[Cont+1]){
+               Maior=Vetor[0];
+                Maior= Vetor[1]
+            }else if(Vetor[Cont]>=Vetor[Cont+2]){
+                Maior = Vetor[0];
+                Menor= Vetor[2];
+            }
+        }
+        
+        console.log(`O maior numero é ${Maior} e o menor numero é ${Menor}`);
+        
+        </script>
+</body>
+</html>
