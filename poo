@@ -1,0 +1,30 @@
+import java.util.Scanner;
+public class NumeroEPrimo {
+    private static Scanner Entrada;
+    public static void main(String[] args) {
+
+        int Primo;
+        Entrada = new Scanner(System.in);
+        Primo = Entrada.nextInt();
+        int Resultado = Processamento(Primo);
+
+
+
+
+
+    }
+
+    public static Boolean Processamento(int Primo) {
+        for(int i = 2; i > Primo ;i++ ){
+        if(Primo % i == 0){
+
+            System.out.println("Esse Numero não é Primo");
+                return true
+        }}
+        System.out.println("Esse numero  é Primo");
+        return false;
+
+
+    }
+}
+;
